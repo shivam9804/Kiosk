@@ -1,0 +1,746 @@
+('C:\\Users\\Shivam '
+ 'Singh\\PycharmProjects\\kiosk\\venv\\final_ui_code_integration\\build\\main\\PYZ-00.pyz',
+ [('_py_abc',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\datetime.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\typing.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\struct.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\__future__.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\difflib.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\ast.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\inspect.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\cmd.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\bdb.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\opcode.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\dis.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\codeop.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\code.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\glob.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\shlex.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\runpy.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\platform.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\tty.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\ssl.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\optparse.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\uu.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\quopri.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\calendar.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\base64.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\bisect.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\random.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\bz2.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\_compression.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\gzip.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\shutil.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\socket.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\getopt.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\pdb.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\string.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\doctest.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\stat.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\signal.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\threading.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\selectors.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\os.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\gettext.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\copy.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\argparse.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\pprint.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\pickle.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('layout5_int',
+   'C:\\Users\\Shivam '
+   'Singh\\PycharmProjects\\kiosk\\venv\\final_ui_code_integration\\layout5_int.py',
+   'PYMODULE'),
+  ('MySQLdb',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\MySQLdb\\__init__.py',
+   'PYMODULE'),
+  ('MySQLdb.connections',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\MySQLdb\\connections.py',
+   'PYMODULE'),
+  ('MySQLdb.converters',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\MySQLdb\\converters.py',
+   'PYMODULE'),
+  ('MySQLdb.constants.FLAG',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\MySQLdb\\constants\\FLAG.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\numbers.py',
+   'PYMODULE'),
+  ('MySQLdb.constants.CLIENT',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\MySQLdb\\constants\\CLIENT.py',
+   'PYMODULE'),
+  ('MySQLdb._exceptions',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\MySQLdb\\_exceptions.py',
+   'PYMODULE'),
+  ('MySQLdb.cursors',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\MySQLdb\\cursors.py',
+   'PYMODULE'),
+  ('MySQLdb.times',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\MySQLdb\\times.py',
+   'PYMODULE'),
+  ('MySQLdb.constants.FIELD_TYPE',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\MySQLdb\\constants\\FIELD_TYPE.py',
+   'PYMODULE'),
+  ('MySQLdb.constants',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\MySQLdb\\constants\\__init__.py',
+   'PYMODULE'),
+  ('MySQLdb.compat',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\MySQLdb\\compat.py',
+   'PYMODULE'),
+  ('MySQLdb.release',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\MySQLdb\\release.py',
+   'PYMODULE'),
+  ('layout4_int',
+   'C:\\Users\\Shivam '
+   'Singh\\PycharmProjects\\kiosk\\venv\\final_ui_code_integration\\layout4_int.py',
+   'PYMODULE'),
+  ('layout3_int',
+   'C:\\Users\\Shivam '
+   'Singh\\PycharmProjects\\kiosk\\venv\\final_ui_code_integration\\layout3_int.py',
+   'PYMODULE'),
+  ('layout2_int',
+   'C:\\Users\\Shivam '
+   'Singh\\PycharmProjects\\kiosk\\venv\\final_ui_code_integration\\layout2_int.py',
+   'PYMODULE'),
+  ('layout1_int',
+   'C:\\Users\\Shivam '
+   'Singh\\PycharmProjects\\kiosk\\venv\\final_ui_code_integration\\layout1_int.py',
+   'PYMODULE'),
+  ('PyQt5.uic',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyQt5\\uic\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5.uic.objcreator',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyQt5\\uic\\objcreator.py',
+   'PYMODULE'),
+  ('PyQt5.uic.exceptions',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyQt5\\uic\\exceptions.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Loader.loader',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyQt5\\uic\\Loader\\loader.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Loader',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyQt5\\uic\\Loader\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Loader.qobjectcreator',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyQt5\\uic\\Loader\\qobjectcreator.py',
+   'PYMODULE'),
+  ('PyQt5.uic.uiparser',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyQt5\\uic\\uiparser.py',
+   'PYMODULE'),
+  ('PyQt5.uic.properties',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyQt5\\uic\\properties.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v3.ascii_upper',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyQt5\\uic\\port_v3\\ascii_upper.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v3',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyQt5\\uic\\port_v3\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5.uic.icon_cache',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyQt5\\uic\\icon_cache.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v2.string_io',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyQt5\\uic\\port_v2\\string_io.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v2',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyQt5\\uic\\port_v2\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v3.string_io',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyQt5\\uic\\port_v3\\string_io.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.compiler',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyQt5\\uic\\Compiler\\compiler.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.qobjectcreator',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyQt5\\uic\\Compiler\\qobjectcreator.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v2.as_string',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyQt5\\uic\\port_v2\\as_string.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v3.as_string',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyQt5\\uic\\port_v3\\as_string.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.qtproxies',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyQt5\\uic\\Compiler\\qtproxies.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v2.proxy_base',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyQt5\\uic\\port_v2\\proxy_base.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.proxy_metaclass',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyQt5\\uic\\Compiler\\proxy_metaclass.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v3.proxy_base',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyQt5\\uic\\port_v3\\proxy_base.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.misc',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyQt5\\uic\\Compiler\\misc.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.indenter',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyQt5\\uic\\Compiler\\indenter.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyQt5\\uic\\Compiler\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5',
+   'c:\\users\\shivam '
+   'singh\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyQt5\\__init__.py',
+   'PYMODULE')])

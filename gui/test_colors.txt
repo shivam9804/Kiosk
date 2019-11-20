@@ -1,0 +1,5 @@
+ #color1 = #ECFCFF
+        #color2 = #FBC99D
+        #color3 = #C9EFF9  //light blue
+        #color1 = #F6F3EB  //background
+        #color1 = #F7F7F7
