@@ -115,6 +115,8 @@ Govenrment of India
          <font>
           <family>Verdana</family>
           <pointsize>11</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
          </font>
         </property>
         <property name="styleSheet">
@@ -150,6 +152,8 @@ Govenrment of India
          <font>
           <family>Verdana</family>
           <pointsize>11</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
          </font>
         </property>
         <property name="styleSheet">
@@ -185,6 +189,8 @@ Govenrment of India
          <font>
           <family>Verdana</family>
           <pointsize>11</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
          </font>
         </property>
         <property name="styleSheet">
@@ -207,13 +213,15 @@ Govenrment of India
          <font>
           <family>Verdana</family>
           <pointsize>11</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
          </font>
         </property>
         <property name="styleSheet">
          <string notr="true">background-color:rgb(170, 170, 255)</string>
         </property>
         <property name="text">
-         <string>Fine Pay</string>
+         <string>Help</string>
         </property>
        </widget>
       </item>
@@ -422,8 +430,8 @@ Govenrment of India
          <font>
           <family>Verdana</family>
           <pointsize>11</pointsize>
-          <weight>50</weight>
-          <bold>false</bold>
+          <weight>75</weight>
+          <bold>true</bold>
          </font>
         </property>
         <property name="styleSheet">

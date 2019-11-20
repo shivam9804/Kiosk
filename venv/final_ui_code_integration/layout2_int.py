@@ -44,7 +44,7 @@ class Ui2(QtWidgets.QMainWindow):
                 mySql_insert_query = """INSERT INTO user (name,phone_number)
                                                VALUES (%s, %s) """
                 recordTuple = (n,p)
-                #cur.execute(mySql_insert_query, recordTuple)
+                cur.execute(mySql_insert_query, recordTuple)
 
                 self.window.close()
                 self.s2_layout3.emit()

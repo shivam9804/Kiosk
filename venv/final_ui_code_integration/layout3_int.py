@@ -2,7 +2,7 @@ from PyQt5 import uic, QtWidgets, QtCore
 from PyQt5.QtSql import QSqlQuery
 from PyQt5.QtWidgets import QApplication, QMainWindow, QVBoxLayout
 import MySQLdb as mdb
-import sys
+import sys, webbrowser
 
 class Ui3(QtWidgets.QMainWindow):
 
@@ -45,8 +45,9 @@ class Ui3(QtWidgets.QMainWindow):
         self.s2_layout5.emit(3)
 
     def fine(self):
-        self.window.close()
-        self.s2_layout5.emit(4)
+        #self.window.close()
+        webbrowser.open("https://vahan.nic.in/nrservices/faces/user/login.xhtml")
+        #self.s2_layout5.emit(4)
 
     def cancel(self):
         self.window.close()
