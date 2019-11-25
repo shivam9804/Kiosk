@@ -36,7 +36,7 @@ class Ui4(QtWidgets.QMainWindow):
         feedback = self.form.comboBox.currentText()
         print(feedback)
         try:
-            db = mdb.connect('localhost', 'root', '', 'desktop_application')
+            db = mdb.connect('your-host-name','username','password','database-name')
             print(self, 'Connection', 'Successful')
             cur = db.cursor()
             mySql_insert_query = ("INSERT INTO feedback (feed_desc) VALUES('{0}') ").format(feedback)
