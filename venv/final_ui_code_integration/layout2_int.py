@@ -38,7 +38,7 @@ class Ui2(QtWidgets.QMainWindow):
 
         else:
             try:
-                db = mdb.connect('localhost', 'root', '', 'desktop_application')
+                db = mdb.connect('your-host-name','username','password','database-name')
                 print(self, 'Connection', 'Successful')
                 cur = db.cursor()
                 mySql_insert_query = """INSERT INTO user (name,phone_number)
