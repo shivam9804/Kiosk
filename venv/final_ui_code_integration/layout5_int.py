@@ -19,7 +19,7 @@ class Ui5(QtWidgets.QMainWindow):
         self.form.setupUi(self.window)
 
         try:
-            db = mdb.connect('localhost', 'root', '', 'desktop_application')
+            db = mdb.connect('your-host-name','username','password','database-name')
             print(self, 'Connection', 'Successful')
             cur = db.cursor()
             mySql_fetch_query = ("SELECT * FROM `document` WHERE doc_id= {0}").format(n)
